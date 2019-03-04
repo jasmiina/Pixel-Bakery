@@ -1,0 +1,6 @@
+p Your order is ready!
+c Finally! Let me see...
+c ...
+c Whoa! It looks so tasty!
+c Here's your money, you've earned it.
+End

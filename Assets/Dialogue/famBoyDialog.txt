@@ -1,0 +1,28 @@
+1
+c Hi there!
+p Welcome! Can I help you with something?
+c Great that you asked! I'm actually reeeaally craving something *adjective* right now!
+p Okay! I'll go make something for you.
+c Awesome! And hey...
+c Make sure it's not too sweet, okay? I want it to be just perfect. I'm pretty picky about this stuff, you know!
+p Ah, that's no problem. I'll do my best!
+c Well, I hope your best is good enough! Haha!
+End
+
+2
+c Hi! How's it going? 
+p I'm great, mister! How are you?
+c Awesome, as always. But I could be better, cause I gotta get *pastryType* right now. Please go make me some.
+p Got it! Just a sec, mister.
+c Uhh, and by the way... Can you stop calling me a mister? Makes me feel old, haha.
+p Ah, I'm sorry! I won't call you that anymore.
+End
+
+3
+c Okay, listen, you gotta help me out today.
+p Welcome! Uh, what is it?
+c Okay. So. My maid tells me we're out of *ingredient*. But I really need some today.
+c So can you make me something?
+p Oh, of course!
+c Great! And make it quick please, I'm in a hurry today!
+End

@@ -1,0 +1,6 @@
+p Your order is ready!
+c Oh! Can I see?
+c ...
+c It looks so delicious...
+c Here, this is all the money I have today. Thank you so much!
+End

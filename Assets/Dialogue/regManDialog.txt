@@ -1,0 +1,30 @@
+1
+c Why hello there, little girl! I don't remember seeing this shop before.
+c But it may be just my memory playing tricks again. Now tell me, what kind of goods do you sell?
+p Well, is there something spesific you like, mister?
+c Hmm, right now I'm craving for *pastryType*.
+c Actually, my cravings are the reason I stepped into this shop, I think. Do you sell that kind, little girl?
+p We do, yes! Just a minute!
+End
+
+2
+c Good morning! Or is it afternoon already? I can never tell, time goes by so fast.
+c But nevermind my ramblings. Do you have something with *ingredient*?
+p Oh, haha, let's see...
+End
+
+3
+c Hello there, little girl. I'm afraid I have some bad news for you today.
+p Oh no! What is it, mister?
+c I had an awfully bad dream last night. 
+c And you know my memory, it must have been really bad if this old man still remembers it.
+p Oh, I see...
+c It was horrible! My favourite bakery burned down! 
+c I could no longer find cupcakes that actually tasted good anywhere!
+p That does sound awful!
+c Yes! So that is why I came here to check that it was indeed just a nightmare.
+c Unfortunately I got lost and couldn't find the right bakery. 
+c This place is close to my house, so I just came here instead.
+c So I still don't know if it was a dream or not. I really need *pastryType* to calm my anxiety.
+p Oh, uh, I'm sorry. I'll go make some for you!
+End

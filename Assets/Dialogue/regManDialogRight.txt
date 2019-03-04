@@ -1,0 +1,6 @@
+p Your order is ready!
+c Well that didn't take long! Hm, or did it? I'm not sure, I fell asleep. Hohoho!
+c ...
+c Ahh, you warm this old man's barely working heart. I'm not sure if it's what I wanted, but it sure smells good!
+c Here's your payment, young lady. Spend it well!
+End

@@ -1,0 +1,25 @@
+1
+c H-hi.
+p Hello! What can I do for you today?
+c Grandpa says that he, uh... he wants something with *ingredient*.
+c H-he asked me to buy some.
+p I'll go make some for you, then!
+c Thank you, miss!
+End
+
+2
+c ...
+p Uh, welcome! How can I help you?
+c O-oh, um... I really want *pastryType*. I-is that okay?
+p Of course, I'll go make that right now!
+c T-thank you so much!
+End
+
+3
+c Hi...
+p Welcome! Can I make you something?
+c Uh, yes! I found a couple coins from a trash can, s-so I wanted to buy something good today.
+p Wow, that's so lucky! Who throws money in the trash anyway?
+p Is there something spesific you want?
+c Um, maybe something *adjective*?
+End

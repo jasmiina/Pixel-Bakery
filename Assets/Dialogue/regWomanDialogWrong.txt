@@ -1,0 +1,6 @@
+p Your order is ready!
+c Lovely! Can I see it?
+c ...
+c Oh dear... I'm afraid even I could cook better than this.
+c But hey, we all make mistakes! I'm sure you'll get it right next time!
+End

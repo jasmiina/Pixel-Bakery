@@ -1,0 +1,6 @@
+p Your order is ready!
+c Well that didn't take long! Hm, or did it? I'm not sure, I fell asleep. Hohoho!
+c ...
+c I can't remember what my order was, but it surely wasn't this.
+c I can't pay for this. You better get it right next time, young lady!
+End

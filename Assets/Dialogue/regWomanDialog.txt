@@ -1,0 +1,18 @@
+1
+c Hello, dear. I'm afraid I really need your help today.
+p How can I help you, miss?
+c You see, my lovely husband is coming back home today from a business trip.
+c I want him to have something delicious after such a rough trip, and I can't cook for the life of me!
+c So I'd like to buy something with *ingredient*, he loves that. Can you help me, dear?
+End
+
+2
+c Good day! You have such a lovely little shop.
+c I'd love to eat *pastryType* in an idyllic setting like this.
+End
+
+3
+c Hi there! Beautiful day, isn't it?
+p It is indeed! What can I get you, miss?
+c A day like this makes me ache for something *adjective*. Would you happen to have something like that, dear?
+End

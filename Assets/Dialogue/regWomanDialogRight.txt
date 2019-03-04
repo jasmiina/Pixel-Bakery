@@ -1,0 +1,6 @@
+p Your order is ready!
+c Lovely! Can I see it?
+c ...
+c Oh my, it smells wonderful. You did a fantastic job, dear.
+c Here's your payment. I'll visit again soon!
+End
