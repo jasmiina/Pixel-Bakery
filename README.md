@@ -28,3 +28,5 @@ Note: To see available recipes open Assets/Scripts/Recipes.cs:
         lovesundae = new string[] { "Love sundae", "cream", "milk", "milk chocolate", "strawberry","sugar" };
         rainbowsundae = new string[] { "Rainbow sundae", "banana", "cream", "milk", "pear", "strawberry", "sugar" };
         darksundae = new string[] { "Dark dreams sundae", "blueberry", "cream", "milk", "milk chocolate", "sugar" };
+
+The game currently has a bug where after baking, the icon of the product appears too small.
