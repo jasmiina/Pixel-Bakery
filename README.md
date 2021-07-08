@@ -32,5 +32,5 @@ Note: To see available recipes open Assets/Scripts/Recipes.cs:
 TODO:
 - The game currently has a bug where after clicking the "Bake!" -button, the following pop-up window appears too small.
 - The order on the baking screen should be more spesific
-- Current font is too unclear
+- UI needs some work
 - The same customer shouldn't appear twice in a row
