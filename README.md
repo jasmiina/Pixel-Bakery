@@ -29,4 +29,8 @@ Note: To see available recipes open Assets/Scripts/Recipes.cs:
         rainbowsundae = new string[] { "Rainbow sundae", "banana", "cream", "milk", "pear", "strawberry", "sugar" };
         darksundae = new string[] { "Dark dreams sundae", "blueberry", "cream", "milk", "milk chocolate", "sugar" };
 
-The game currently has a bug where after baking, the icon of the product appears too small.
+TODO:
+- The game currently has a bug where after clicking the "Bake!" -button, the following pop-up window appears too small.
+- The order on the baking screen should be more spesific
+- Current font is too unclear
+- The same customer shouldn't appear twice in a row
